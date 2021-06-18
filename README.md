@@ -5,4 +5,4 @@
 - :ocean: 我的博客[CSDN](https://blog.csdn.net/tutian2000)
 - 📫 fangweilong@outlook.com
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=fangweilong&show_icons=true">
+[![fangweilong's GitHub stats](https://github-readme-stats.vercel.app/api?username=fangweilong)](https://github.com/fangweilong)
