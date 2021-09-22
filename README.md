@@ -1,5 +1,10 @@
 [![fangweilong's GitHub stats](https://github-readme-stats.vercel.app/api?username=fangweilong)](https://github.com/fangweilong)
 
+<p align="center"> 
+  访客人数<br>
+  <img src="https://profile-counter.glitch.me/fangweilong/count.svg" />
+</p>
+
 # 👋 Hi, I’m @fangweilong
 - 👀 我使用的主力语言是 JAVA
 - 🌱 也在使用JS、VUE、Linux Shell、Docker
