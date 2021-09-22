@@ -1,6 +1,6 @@
 [![fangweilong's GitHub stats](https://github-readme-stats.vercel.app/api?username=fangweilong)](https://github.com/fangweilong)
 
-<p align="center"> 
+<p align="left"> 
   访客人数<br>
   <img src="https://profile-counter.glitch.me/fangweilong/count.svg" />
 </p>
