@@ -3,9 +3,9 @@
   <h1>👋 Hi, I'm Fang Weilong</h1>
 
   <p>
-    <!-- 访客计数 (基于 Shields.io CDN，国内稳定) -->
+    <!-- 访客计数 -->
     <img src="https://komarev.com/ghpvc/?username=fangweilong&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-    <!-- 地区 -->
+    <!-- 坐标 -->
     <img src="https://img.shields.io/badge/Location-Wuxi%2C%20China-green?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
     <!-- 邮箱 -->
     <a href="mailto:fangweilong@outlook.com">
@@ -47,13 +47,12 @@
 
 ---
 
-### 📊 GitHub 开源概况
+### 🚀 个人开源项目与维护动态
 
-<p align="left">
-  <!-- 实时仓库总数 -->
-  <img src="https://img.shields.io/github/repo-size/fangweilong/flow-dir?style=flat-square&label=flow-dir%20size" />
-  <!-- 关注数与粉丝数 (完全依赖 GitHub 原生 API，永不裂开) -->
-  <a href="https://github.com/fangweilong?tab=followers">
-    <img src="https://img.shields.io/github/followers/fangweilong?style=social" alt="Followers" />
-  </a>
-</p>
+| 仓库名称 | 说明 | 最近更新 | 维护活跃度 |
+| :--- | :--- | :--- | :--- |
+| [**flow-dir**](https://github.com/fangweilong/flow-dir) | 目录管理与工作流自动化脚本工具 | ![Last Commit](https://img.shields.io/github/last-commit/fangweilong/flow-dir?style=flat-square&color=2ea44f&logo=git&logoColor=white) | ![Commit Activity](https://img.shields.io/github/commit-activity/y/fangweilong/flow-dir?style=flat-square&color=blue) |
+| [**link-deck**](https://github.com/fangweilong/link-deck) | Windows 轻量级无线外设状态管理与桌面工具 | ![Last Commit](https://img.shields.io/github/last-commit/fangweilong/link-deck?style=flat-square&color=2ea44f&logo=git&logoColor=white) | ![Commit Activity](https://img.shields.io/github/commit-activity/y/fangweilong/link-deck?style=flat-square&color=blue) |
+| [**devup**](https://github.com/fangweilong/devup) | 开发者本地环境快速升级与依赖自动化部署 | ![Last Commit](https://img.shields.io/github/last-commit/fangweilong/devup?style=flat-square&color=2ea44f&logo=git&logoColor=white) | ![Commit Activity](https://img.shields.io/github/commit-activity/y/fangweilong/devup?style=flat-square&color=blue) |
+
+> 💡 *持续迭代与打磨日常开发中的自动化脚本与实用工具。*
