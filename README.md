@@ -50,15 +50,10 @@
 
 ---
 
-### 📊 GitHub 统计
+### 📊 GitHub 贡献走势
 
 <p align="center">
-  <!-- 个人综合数据卡片 -->
   <a href="https://github.com/fangweilong">
-    <img src="https://github-readme-stats.vercel.app/api?username=fangweilong&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Fang Weilong's GitHub Stats" />
-  </a>
-  <!-- 最常使用的语言卡片 -->
-  <a href="https://github.com/fangweilong">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangweilong&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fangweilong&theme=radical&hide_border=true&area=true" alt="Fang Weilong's Activity Graph" width="100%" />
   </a>
 </p>
